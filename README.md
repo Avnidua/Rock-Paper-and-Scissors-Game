@@ -1,1 +1,1 @@
-# Rock-Paper-and-Scissors-Game
+# Random Story Generator
